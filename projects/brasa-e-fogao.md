@@ -19,7 +19,7 @@ Participei da organização do conteúdo e da presença visual do biosite. O mat
 - Estrutura de navegação curta para acesso aos principais canais.
 - Apresentação visual adaptada a telas pequenas.
 
-**Stack confirmada no código do biosite:** React, TypeScript, TanStack Start, Tailwind CSS e Vite.
+**Stack usada:** React, TypeScript, TanStack Start, Tailwind CSS e Vite.
 
 Este estudo de caso está resumido até que haja capturas da interface do próprio biosite e uma descrição mais completa das entregas.
 
