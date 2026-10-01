@@ -23,4 +23,6 @@ Participei da definição e evolução dos fluxos de cadastro, suporte e uso da 
 
 O produto segue em evolução. Não publico código, tokens de API ou dados de campanhas e clientes.
 
+Ainda não há uma landing page ou demonstração pública preparada para o portfólio. A imagem acima é ilustrativa.
+
 [← Todos os projetos](../README.md)

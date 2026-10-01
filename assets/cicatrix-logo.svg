@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 180" role="img" aria-labelledby="title desc">
+  <title id="title">Cicatrix Pro</title>
+  <desc id="desc">Logo horizontal vetorial da marca Cicatrix Pro.</desc>
+  <defs>
+    <linearGradient id="copper" x1="12%" y1="8%" x2="88%" y2="92%">
+      <stop offset="0" stop-color="#8f4933"/>
+      <stop offset=".24" stop-color="#efb79f"/>
+      <stop offset=".48" stop-color="#a75034"/>
+      <stop offset=".72" stop-color="#f1c5b1"/>
+      <stop offset="1" stop-color="#b85b3a"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(6 6) scale(.73)">
+    <path d="M154 32C113 11 58 29 39 77c-20 50 3 106 52 124 23 9 48 7 68-3l-4-17c-16 10-37 13-56 6-40-14-61-58-47-99 14-40 57-62 98-48l5 16z" fill="url(#copper)"/>
+    <path d="M83 58c25 46 58 80 107 105-47-13-86-46-107-105z" fill="url(#copper)"/>
+    <path d="M73 190c22-61 61-111 123-142-55 40-92 88-123 142z" fill="url(#copper)"/>
+  </g>
+  <text x="182" y="88" fill="#5a504b" font-family="Bodoni MT, Didot, Times New Roman, serif" font-size="74" font-weight="400" letter-spacing="13">CICATRI</text>
+  <path d="M592 42c17 28 36 48 65 63-29-8-51-28-65-63z" fill="url(#copper)"/>
+  <path d="M586 112c15-38 39-68 78-87-35 25-57 55-78 87z" fill="url(#copper)"/>
+  <line x1="190" y1="120" x2="274" y2="120" stroke="#a75034" stroke-width="2"/>
+  <text x="304" y="133" fill="#ad5b3f" font-family="DM Sans, Arial, sans-serif" font-size="34" font-weight="500" letter-spacing="17">PRO</text>
+  <line x1="474" y1="120" x2="558" y2="120" stroke="#a75034" stroke-width="2"/>
+  <text x="185" y="164" fill="#716763" font-family="DM Sans, Arial, sans-serif" font-size="12" font-weight="500" letter-spacing="5.2">CIÊNCIA · TECNOLOGIA · RESULTADOS</text>
+</svg>

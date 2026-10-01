@@ -4,6 +4,8 @@
 
 ![Capa ilustrativa do projeto Cicatrix](../assets/cicatrix.svg)
 
+![Logo da Cicatrix Pro](../assets/cicatrix-logo.svg)
+
 ## Contexto
 
 A Cicatrix apresenta protocolos de tratamento e acompanhamento de cicatrizes no pós-operatório. O produto não oferece cirurgia nem promete um resultado clínico específico.
@@ -21,5 +23,7 @@ Participei da definição da jornada, dos textos e das iterações da landing pa
 **Tecnologias do protótipo:** HTML, CSS e JavaScript.
 
 A versão documentada aqui é um **protótipo de frontend**. Pagamentos, faturamento e painel de vendas são possibilidades de evolução e não são apresentados como funcionalidades prontas.
+
+O site ainda não está no ar. As imagens da landing page podem ser adicionadas aqui sem publicar o código.
 
 [← Todos os projetos](../README.md)

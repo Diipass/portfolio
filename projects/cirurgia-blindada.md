@@ -2,7 +2,11 @@
 
 **Sistema de gestão contratual e operacional**
 
-![Capa ilustrativa do projeto Cirurgia Blindada](../assets/cirurgia-blindada.svg)
+![Imagem da página pública do Cirurgia Blindada](../assets/cirurgia-blindada-site.webp)
+
+**[Acessar o site público](https://cirurgiablindada.com/)**
+
+A imagem acima é usada na página pública do projeto. As telas administrativas não são exibidas aqui.
 
 ## Contexto
 

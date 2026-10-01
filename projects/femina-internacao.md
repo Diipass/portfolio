@@ -2,7 +2,9 @@
 
 **MVP de pré-internação hospitalar e automação administrativa**
 
-![Capa ilustrativa do projeto Fêmina Internação](../assets/femina-internacao.svg)
+![Logo do Fêmina Day Clinic](../assets/femina-logo.svg)
+
+O sistema de internação está em testes. A apresentação pública usa apenas a logo, sem imagens de pacientes ou telas internas.
 
 ## Contexto
 

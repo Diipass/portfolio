@@ -2,7 +2,9 @@
 
 **Presença digital para restaurante**
 
-![Capa ilustrativa do projeto Brasa e Fogão](../assets/brasa-e-fogao.svg)
+![Identidade visual do Brasa e Fogão](../assets/brasa-identidade.jpg)
+
+O biosite ainda está localmente, sem link público.
 
 ## Contexto
 
@@ -17,6 +19,6 @@ Participei da organização do conteúdo e da presença visual do biosite. O mat
 - Estrutura de navegação curta para acesso aos principais canais.
 - Apresentação visual adaptada a telas pequenas.
 
-Este estudo de caso está resumido até que haja capturas autorizadas e uma descrição mais completa das entregas.
+Este estudo de caso está resumido até que haja capturas da interface e uma descrição mais completa das entregas.
 
 [← Todos os projetos](../README.md)
