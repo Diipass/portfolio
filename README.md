@@ -1,8 +1,7 @@
 # Portfólio | Lucas de Paula
 
-Projetos de desenvolvimento web e TI construídos e evoluídos com apoio de ferramentas de IA, testes e acompanhamento dos fluxos de uso. Este repositório apresenta **estudos de caso públicos**; o código dos sistemas, configurações, dados de clientes e informações de pacientes não fazem parte dele.
+Projetos de desenvolvimento web e TI construídos e evoluídos com apoio de ferramentas de IA, testes e acompanhamento dos fluxos de uso.
 
-As páginas dos projetos usam imagens públicas dos sites, logos ou capturas de interfaces locais quando disponíveis. A capa do Dashboard de Tráfego ainda é ilustrativa; os textos distinguem o que já foi desenvolvido do que está em evolução.
 
 | Projeto | Resumo | Estágio apresentado |
 | --- | --- | --- |
