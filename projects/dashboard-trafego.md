@@ -6,7 +6,7 @@
 
 ## Contexto
 
-O projeto busca reunir a operação de marketing em um espaço com clientes, contas, integrações, acompanhamento e relatórios.
+O projeto busca facilitar a vida do gestor de tráfego, gerando relatórios de gastos das campanhas gestão de múltiplas contas do facebook ads, em um espaço com clientes, contas, integrações, acompanhamento e relatórios.
 
 ## Minha participação
 
@@ -19,10 +19,7 @@ Participei da definição e evolução dos fluxos de cadastro, suporte e uso da 
 - Visões de anúncios, gastos, relatórios e monitoramento por cliente.
 - Área de suporte administrativo e orientação de primeiros passos.
 
-**Tecnologias identificadas no histórico do projeto:** Laravel, PHP e integrações com serviços de marketing. A disponibilidade de cada conexão externa depende da configuração e do ambiente.
+**Stacks usadas no projeto:** Laravel, PHP e integrações com serviços de marketing. A disponibilidade de cada conexão externa depende da configuração e do ambiente.
 
-O produto segue em evolução. Não publico código, tokens de API ou dados de campanhas e clientes.
-
-Ainda não há uma landing page ou demonstração pública preparada para o portfólio. A imagem acima é ilustrativa.
 
 [← Todos os projetos](../README.md)
