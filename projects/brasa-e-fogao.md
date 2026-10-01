@@ -8,7 +8,7 @@ A capa enviada apresenta o site principal da marca, usado como referência visua
 
 ## Contexto
 
-O projeto foi pensado para facilitar a descoberta do restaurante e o acesso a seus canais digitais em uma experiência simples para celular.
+O projeto foi pensado para facilitar a descoberta do restaurante e o acesso a seus canais digitais em uma experiência simples para celular. Além de ajudar na captação de novos clientes para o restaurante
 
 ## Minha participação
 
