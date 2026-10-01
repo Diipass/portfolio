@@ -4,7 +4,7 @@
 
 ![Capa Brasas e Fogão enviada para o portfólio](../assets/brasa-e-fogao-capa.png)
 
-A capa enviada apresenta o site principal da marca, usado como referência visual do biosite de links. O trabalho descrito abaixo é o biosite local, ainda sem link público.
+A capa enviada apresenta o site principal da marca, usado como referência visual do biosite de links.
 
 ## Contexto
 
