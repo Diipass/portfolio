@@ -22,7 +22,7 @@ Participei da construção e da evolução dos fluxos de pré-internação e do 
 - Geração de documentos, integração de assinatura eletrônica e acompanhamento no painel.
 - Organização de dados legados para a evolução do Fêmina Hub Cirúrgico.
 
-**Tecnologias identificadas no MVP:** PHP, MySQL/MariaDB, SQL/PDO, HTML, CSS, JavaScript, mPDF e APIs HTTP/GraphQL.
+**Stacks usadas no MVP:** PHP, MySQL/MariaDB, SQL/PDO, HTML, CSS, JavaScript, mPDF e APIs HTTP/GraphQL.
 
 A evolução do Hub foi trabalhada em ambiente de homologação. Este estudo de caso não apresenta a plataforma inteira como validada em produção. O código e os dados de pacientes permanecem privados.
 
