@@ -11,7 +11,7 @@ As páginas dos projetos usam imagens públicas dos sites, logos ou capturas de 
 | [Dashboard de Tráfego](projects/dashboard-trafego.md) | Clientes, contas de anúncios e relatórios de marketing. | Em evolução; sem demonstração pública para o portfólio |
 | [Cicatrix](projects/cicatrix.md) | Experiência digital para protocolos de cuidado de cicatrizes. | Captura da landing; site ainda não publicado |
 | [Quanta Corp](projects/quanta-corp.md) | Simulação de receita para parceiros. | Captura da landing local; publicação em preparação |
-| [Brasa e Fogão](projects/brasa-e-fogao.md) | Biosite e presença digital de restaurante. | Projeto local; identidade visual disponível |
+| [Brasa e Fogão](projects/brasa-e-fogao.md) | Biosite e presença digital de restaurante. | Biosite local; capa visual disponível |
 
 ## Como ler os estudos de caso
 

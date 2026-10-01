@@ -2,9 +2,9 @@
 
 **Presença digital para restaurante**
 
-![Identidade visual do Brasa e Fogão](../assets/brasa-identidade.jpg)
+![Capa Brasas e Fogão enviada para o portfólio](../assets/brasa-e-fogao-capa.png)
 
-O biosite ainda está localmente, sem link público.
+A capa enviada apresenta o site principal da marca, usado como referência visual do biosite de links. O trabalho descrito abaixo é o biosite local, ainda sem link público.
 
 ## Contexto
 
@@ -19,6 +19,8 @@ Participei da organização do conteúdo e da presença visual do biosite. O mat
 - Estrutura de navegação curta para acesso aos principais canais.
 - Apresentação visual adaptada a telas pequenas.
 
-Este estudo de caso está resumido até que haja capturas da interface e uma descrição mais completa das entregas.
+**Stack confirmada no código do biosite:** React, TypeScript, TanStack Start, Tailwind CSS e Vite.
+
+Este estudo de caso está resumido até que haja capturas da interface do próprio biosite e uma descrição mais completa das entregas.
 
 [← Todos os projetos](../README.md)
