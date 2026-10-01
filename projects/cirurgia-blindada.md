@@ -14,7 +14,7 @@ O projeto reúne etapas que antes exigiam acompanhamento manual: cadastro de con
 
 ## Minha participação
 
-Participei do desenvolvimento e da evolução do sistema, definindo necessidades com a operação, testando fluxos e ajustando funcionalidades com apoio de ferramentas de IA. O trabalho incluiu interface administrativa, regras de negócio, integrações e manutenção.
+Participei do desenvolvimento e da evolução do sistema com o aconselhamento de um médico formado, construindo o sistema de acordo com suas necessidades, testando fluxos e ajustando funcionalidades com apoio de ferramentas de IA. O trabalho incluiu interface administrativa, regras de negócio, integrações e manutenção.
 
 ## O que foi trabalhado
 
@@ -24,7 +24,7 @@ Participei do desenvolvimento e da evolução do sistema, definindo necessidades
 - Registro de alterações e tratamento de falhas em vínculos com serviços externos.
 - Análise operacional assistida por IA a partir de indicadores calculados no sistema.
 
-**Tecnologias identificadas:** PHP, MySQL, SQL/PDO, HTML, CSS, JavaScript, APIs REST, GraphQL, mPDF e Linux/SSH.
+**Stacks usadas:** PHP, MySQL, SQL/PDO, HTML, CSS, JavaScript, APIs REST, GraphQL, mPDF e Linux/SSH.
 
 O código e as telas com dados reais não são públicos por envolverem operação e informações de terceiros.
 
