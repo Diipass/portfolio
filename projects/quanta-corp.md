@@ -1,0 +1,25 @@
+# Quanta Corp
+
+**Demonstração de simulador de receita para parceiros**
+
+![Capa ilustrativa do projeto Quanta Corp](../assets/quanta-corp.svg)
+
+## Contexto
+
+O simulador ajuda a explorar cenários de indicações, fechamentos e projeções de receita com parâmetros explícitos.
+
+## Minha participação
+
+Participei da definição e revisão das regras de cálculo, da experiência pública e do painel de configuração da demonstração.
+
+## O que foi trabalhado
+
+- Cálculo de estimativas com valores monetários arredondados em centavos.
+- Formulário público e painel de teste com configuração local.
+- Validação de datas e campos, além de ajustes de apresentação para celular.
+
+**Tecnologias da demonstração:** HTML, CSS e JavaScript.
+
+Esta é uma **demonstração estática com valores ilustrativos**. Alterações no painel ficam no navegador de quem testa; ela não possui autenticação real, captura de leads nem armazenamento compartilhado.
+
+[← Todos os projetos](../README.md)

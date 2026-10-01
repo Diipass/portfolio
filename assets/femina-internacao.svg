@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" role="img" aria-label="Capa ilustrativa do projeto FÊMINA INTERNAÇÃO">
+<defs>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 L 0 0 0 40" fill="none" stroke="#FFFFFF" stroke-opacity=".055" stroke-width="1"/></pattern>
+  <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F2B8A0" stop-opacity=".28"/><stop offset="1" stop-color="#F2B8A0" stop-opacity="0"/></linearGradient>
+  <style>.kicker{font:700 20px Arial,sans-serif;letter-spacing:5px;fill:#F2B8A0}.title{font:800 78px Arial,sans-serif;letter-spacing:-3px;fill:#F4F5F7}.small{font:600 19px Arial,sans-serif;letter-spacing:3px;fill:#AAB5C2}</style>
+</defs>
+<rect width="1200" height="600" fill="#0D1520"/>
+<rect width="1200" height="600" fill="url(#grid)"/>
+<circle cx="1040" cy="142" r="280" fill="url(#glow)"/>
+<path d="M 824 102 L 1076 102 L 1140 166 L 1140 418 L 1076 482 L 824 482 L 760 418 L 760 166 Z" fill="none" stroke="#F2B8A0" stroke-opacity=".62" stroke-width="3"/>
+<path d="M 812 144 L 1056 144 L 1098 186 L 1098 396 L 1056 438 L 812 438" fill="none" stroke="#F2B8A0" stroke-opacity=".33" stroke-width="2"/>
+<circle cx="950" cy="292" r="115" fill="none" stroke="#F2B8A0" stroke-opacity=".5" stroke-width="2"/>
+<circle cx="950" cy="292" r="70" fill="none" stroke="#F2B8A0" stroke-opacity=".55" stroke-width="3"/>
+<circle cx="950" cy="292" r="18" fill="#F2B8A0"/>
+<path d="M 950 177 L 950 222 M 950 362 L 950 407 M 835 292 L 880 292 M 1020 292 L 1065 292" stroke="#F2B8A0" stroke-width="3" stroke-linecap="round"/>
+<rect x="72" y="64" width="33" height="7" rx="3" fill="#F2B8A0"/>
+<text x="118" y="73" class="kicker">LUCAS DE PAULA / PORTFÓLIO</text>
+<text x="74" y="206" class="small">FLUXOS HOSPITALARES</text>
+<text x="74" y="302" class="title">FÊMINA</text>
+<text x="74" y="370" class="title">INTERNAÇÃO</text>
+<path d="M 74 465 L 620 465" stroke="#FFFFFF" stroke-opacity=".25" stroke-width="2"/>
+<text x="74" y="510" class="small">ESTUDO DE CASO</text>
+<text x="613" y="510" class="small" text-anchor="end">02 / 06</text>
+</svg>
