@@ -2,9 +2,7 @@
 
 **Protótipo de experiência digital para cuidados de cicatrizes**
 
-![Capa ilustrativa do projeto Cicatrix](../assets/cicatrix.svg)
-
-![Logo da Cicatrix Pro](../assets/cicatrix-logo.svg)
+![Captura da landing page local do Cicatrix](../assets/cicatrix-hero.webp)
 
 ## Contexto
 
@@ -24,6 +22,6 @@ Participei da definição da jornada, dos textos e das iterações da landing pa
 
 A versão documentada aqui é um **protótipo de frontend**. Pagamentos, faturamento e painel de vendas são possibilidades de evolução e não são apresentados como funcionalidades prontas.
 
-O site ainda não está no ar. As imagens da landing page podem ser adicionadas aqui sem publicar o código.
+O site ainda não está no ar. A imagem acima é uma captura da landing page no repositório privado do projeto; o código permanece privado.
 
 [← Todos os projetos](../README.md)

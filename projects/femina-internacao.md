@@ -2,9 +2,9 @@
 
 **MVP de pré-internação hospitalar e automação administrativa**
 
-![Logo do Fêmina Day Clinic](../assets/femina-logo.svg)
+![Captura do formulário inicial do MVP Fêmina Internação](../assets/femina-formulario-publico.png)
 
-O sistema de internação está em testes. A apresentação pública usa apenas a logo, sem imagens de pacientes ou telas internas.
+O sistema de internação está em testes. A captura acima mostra a etapa inicial do formulário sem dados preenchidos. A identidade do Fêmina Day Clinic aparece na interface.
 
 ## Contexto
 
