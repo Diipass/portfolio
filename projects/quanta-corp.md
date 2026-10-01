@@ -22,6 +22,6 @@ Participei da definição e revisão das regras de cálculo, da experiência pú
 
 **Tecnologias da demonstração:** HTML, CSS, JavaScript e Node.js no servidor do simulador original.
 
-Esta é uma **demonstração estática com valores ilustrativos**.
+Esta é uma **demonstração estática com valores ilustrativos**. Alterações no painel ficam no navegador de quem testa; ela não possui autenticação real, captura de leads nem armazenamento compartilhado.
 
 [← Todos os projetos](../README.md)
