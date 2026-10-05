@@ -1,10 +1,10 @@
 # Quanta Corp
 
-**Demonstração de simulador de receita para parceiros**
+**Site e simulador de receita para parceiros**
 
 ![Imagem da landing page local da Quanta Corp](../assets/quanta-site.jpg)
 
-[Ver a captura da landing page local](../assets/quanta-landing-desktop.png). O site público está em preparação.
+[Acessar site público](https://quantasimuladorlojas.com.br/) · [Abrir simulador](https://quantasimuladorlojas.com.br/simulador) · [Ver captura da versão local](../assets/quanta-landing-desktop.png).
 
 ## Contexto
 
@@ -22,6 +22,6 @@ Participei da definição e revisão das regras de cálculo, da experiência pú
 
 **Tecnologias da demonstração:** HTML, CSS, JavaScript e Node.js no servidor do simulador original.
 
-Esta é uma **demonstração estática com valores ilustrativos**. Alterações no painel ficam no navegador de quem testa; ela não possui autenticação real, captura de leads nem armazenamento compartilhado.
+Os detalhes técnicos acima registram a **versão de demonstração com valores ilustrativos** documentada neste portfólio. Nessa versão, alterações no painel ficam no navegador de quem testa; ela não possui autenticação real, captura de leads nem armazenamento compartilhado.
 
 [← Todos os projetos](../README.md)
