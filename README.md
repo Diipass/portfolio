@@ -9,8 +9,8 @@ Projetos de desenvolvimento web e TI construídos e evoluídos com apoio de ferr
 | [Fêmina Internação](projects/femina-internacao.md) | Pré-internação hospitalar, documentos e painel administrativo. | Em testes; captura do formulário público |
 | [Dashboard de Tráfego](projects/dashboard-trafego.md) | Clientes, contas de anúncios e relatórios de marketing. | Em evolução; sem demonstração pública para o portfólio |
 | [Cicatrix](projects/cicatrix.md) | Experiência digital para protocolos de cuidado de cicatrizes. | Captura da landing; site ainda não publicado |
-| [Quanta Corp](projects/quanta-corp.md) | Simulação de receita para parceiros. | Captura da landing local; publicação em preparação |
-| [Brasa e Fogão](projects/brasa-e-fogao.md) | Biosite e presença digital de restaurante. | Biosite local; capa visual disponível |
+| [Quanta Corp](projects/quanta-corp.md) | Site e simulador de receita para parceiros. | [Site no ar](https://quantasimuladorlojas.com.br/) · [Simulador](https://quantasimuladorlojas.com.br/simulador) |
+| [Brasa e Fogão](projects/brasa-e-fogao.md) | Site do restaurante e biosite de links. | [Site no ar](https://brasasefogao.com.br/) · biosite local |
 
 ## Como ler os estudos de caso
 
