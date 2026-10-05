@@ -4,7 +4,7 @@
 
 ![Imagem da landing page local da Quanta Corp](../assets/quanta-site.jpg)
 
-[Acessar site público](https://quantasimuladorlojas.com.br/) · [Abrir simulador](https://quantasimuladorlojas.com.br/simulador) · [Ver captura da versão local](../assets/quanta-landing-desktop.png).
+[Acessar site público](https://quantasimuladorlojas.com.br/) · [Abrir simulador](https://quantasimuladorlojas.com.br/simulador) 
 
 ## Contexto
 
